@@ -1,2 +1,4 @@
-# Cinema_booking_manager
-This repository contains a simple cinema booking manager developed as final project of the array module of the Programming Basics course (by TomorrowDevs)
+# Cinema Booking Manager
+
+## Description:
+The present project consists in the development of a reservation manager for a cinema, a tool that allows users to reserve and manage seats for film screenings. The manager will capture showing information, such as movie title, time, theater, and available seats, and provide features to view, book, edit, and delete seat reservations.
